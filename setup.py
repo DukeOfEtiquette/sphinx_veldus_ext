@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sphinx-veldus-ext", # Replace with your own username
-    version="0.1.0",
+    version="0.1.1",
     author="Adam DuQuette",
     author_email="duquetteadam@gmail.com",
     description="A Sphinx Extension built for Veldus",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dukeofetiquette/sphinx-veldus-ext",
+    url="https://github.com/dukeofetiquette/sphinx_veldus_ext",
     packages=setuptools.find_packages(),
     package_data={'veldus_ext': ['templates/*.html']},
     classifiers=[

@@ -1,4 +1,4 @@
-# Sphinx Veldus Extension v0.1.0
+# Sphinx Veldus Extension v0.1.1
 
 This is a Sphinx Extension built for Veldus.
 
